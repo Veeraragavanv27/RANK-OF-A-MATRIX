@@ -20,7 +20,8 @@ End the program
 import numpy as np
 a=np.array([[3,2,5],[1,1,2],[3,3,6]])
 b=np.linalg.matrix_rank(a)
-print(b)```
+print(b)
+```
 ## Output:
 ![Screenshot 2023-12-16 225307](https://github.com/veerargavanv27/RANK-OF-A-MATRIX/assets/138955645/da50741f-252f-4dfd-814c-300cc97d5735)
 
