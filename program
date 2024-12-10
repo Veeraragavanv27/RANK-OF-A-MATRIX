@@ -1,0 +1,4 @@
+import numpy as np
+a=np.array([[3,2,5],[1,1,2],[3,3,6]])
+b=np.linalg.matrix_rank(a)
+print(b)
